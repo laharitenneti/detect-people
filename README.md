@@ -12,5 +12,5 @@ Dependencies:
 - numpy
 
 Data:
-- Download **haarcascade_upperbody.xml** from [OpenCV Haarcascades](https://github.com/opencv/opencv/tree/master/data/haarcascades)
+- Download `haarcascade_upperbody.xml` from [OpenCV Haarcascades](https://github.com/opencv/opencv/tree/master/data/haarcascades)
 - Add your own .mov/.mp4/.avi file
